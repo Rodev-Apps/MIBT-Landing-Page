@@ -7,6 +7,9 @@ Upon the request of one of my clients, MIBT Landing Page was built from the grou
 ## Purpose
 Key expectations are to be the face of the institution. Create an attractive, functional digital space where their members can interact, access resources and contact various departments. A space that grabs attention, engages the user and is easy to navigate. Web pages contained in this build are there only to serve as place holders and are not linked to this project nor are they products of Rodev-Apps.
 
+## Mock-up
+![](images/MIBT_landing_page.png)
+
 ## Website Link
 Click [**here.**](https://rodev-apps.github.io/MIBT-Landing-Page/) to visit site.
 
